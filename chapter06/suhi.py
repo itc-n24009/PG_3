@@ -6,7 +6,7 @@ day = str(input("生まれた日はいつですか >>"))
 
 number = 0
 
-#number = int(year[0]) + int(year[1]) + int(year[2]) + int(year[3])
+# number = int(year[0]) + int(year[1]) + int(year[2]) + int(year[3])
 
 for i in year:
     number += int(i)
